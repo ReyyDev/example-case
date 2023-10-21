@@ -67,7 +67,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ Runtime : ${runtime}
 ╰──────────◇
 
-╭✄┈┈┈⟬ *ANIME* ⟭
+//╭✄┈┈┈⟬ *ANIME* ⟭
 ┆❐ ${prefix}akame
 ┆❐ ${prefix}anna
 ┆❐ ${prefix}asuna-yuki
@@ -114,7 +114,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}loli
 ╰──────────◇
 
-╭✄┈┈┈⟬ *ASUPAN* ⟭
+//╭✄┈┈┈⟬ *ASUPAN* ⟭
 ┆❐ ${prefix}chika
 ┆❐ ${prefix}rikagusriani
 ┆❐ ${prefix}bocil
@@ -138,7 +138,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}mangayutri
 ╰──────────◇
 
-╭✄┈┈┈⟬ *CECAN* ⟭
+//╭✄┈┈┈⟬ *CECAN* ⟭
 ┆❐ ${prefix}china
 ┆❐ ${prefix}indonesia
 ┆❐ ${prefix}malaysia
@@ -152,7 +152,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}rose
 ╰──────────◇
 
-╭✄┈┈┈⟬ *COGAN* ⟭
+//╭✄┈┈┈⟬ *COGAN* ⟭
 ┆❐ ${prefix}wuyifan
 ┆❐ ${prefix}suga
 ┆❐ ${prefix}parkchanyeol
