@@ -67,6 +67,10 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ Runtime : ${runtime}
 ╰──────────◇
 
+╭✄┈┈┈⟬ *ALAT* ⟭
+┆❐ ${prefix}sticker
+╰──────────◇
+
 ╭✄┈┈┈⟬ *GROUP* ⟭
 ┆❐ ${prefix}setwelcome
 ┆❐ ${prefix}changewelcome
@@ -82,6 +86,8 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}antilink2
 ┆❐ ${prefix}hidetag
 ╰──────────◇
+
+Note : Menu Masi Perkembangan, Lama? Donate Kont Bikin Apikey Make Biaya. "KnoXxX_Id"
 `
 }
 }
